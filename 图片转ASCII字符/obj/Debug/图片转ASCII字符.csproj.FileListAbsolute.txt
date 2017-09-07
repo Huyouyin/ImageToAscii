@@ -1,0 +1,6 @@
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\bin\Debug\图片转ASCII字符.exe.config
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\bin\Debug\图片转ASCII字符.exe
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\bin\Debug\图片转ASCII字符.pdb
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\obj\Debug\图片转ASCII字符.csprojResolveAssemblyReference.cache
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\obj\Debug\图片转ASCII字符.exe
+c:\users\pd\documents\visual studio 2015\Projects\图片转ASCII字符\图片转ASCII字符\obj\Debug\图片转ASCII字符.pdb
